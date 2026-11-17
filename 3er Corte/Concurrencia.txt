@@ -1,0 +1,19 @@
+concurrencia                                               =/                                                 Paralelismo 
+ 
+"time sharing" sincronizacion de varios hilos
+
+Tipos de concurrencia
+1. Multiproceso
+2. Multihilo
+3. Multihilo/Asincrona (teoria)
+4. Paso de mensajes(solo veremos teoria)
+porque se utiliza programacion de concurrencia?
+
+- capacidad de respuesta
+- optimizar tareas con altas entredas y salidas
+- modularidad/ logica en orden
+- uso eficiente del Hardware
+
+
+no apropiativos
+apropiativos
